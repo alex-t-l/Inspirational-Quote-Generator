@@ -49,7 +49,6 @@ function getRandomQuote() {
 }
 
 function getQuote() {
-  ChangeIt();
   let randomQuote = getRandomQuote();
 
   currentQuote = randomQuote.quote;
