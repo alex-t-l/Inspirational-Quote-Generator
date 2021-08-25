@@ -5,10 +5,5 @@
 # Inspirational Quote Generator made using JavaScript, HTML, and CSS
 An inspirational quote generator.
 
-Some cool features
+I created an inspirational quote generator website, and used JavaScript for the animations, CSS for the visualization, and HTML for the layout. Every time you generate a new quote in this website, it chooses from a random batch of colors I hardcoded, a random nature image I uploaded, and a random quote retrieved from an online JSON file containing a quote, and author, it then gets parsed onto the page.
 
--A twitter button
-
--Background changes everytime you retrieve a new quote
-
--Color changes everytime you retrieve a new quote
